@@ -22,7 +22,7 @@ h1 {
 }
 
 button {
-  background-color: #4caf50;
+  background-color: #739072;
   color: #fff;
   padding: 10px 20px;
   font-size: 16px;
@@ -33,7 +33,7 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #4F6F52;
 }
 
 hr {
@@ -58,3 +58,11 @@ li {
   border-radius: 4px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+<<<<<<< HEAD
+=======
+
+span{
+  color: #4F6F52;
+  font-weight: 600;
+}
+>>>>>>> 52493ff (done)

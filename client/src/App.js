@@ -52,7 +52,7 @@ function App() {
         <ul>
           {notifications.map((notification, index) => (
             <li key={index}>
-              {notification.message} - {notification.timestamp}
+              <span>{notification.message} -</span>{notification.timestamp}
             </li>
           ))}
         </ul>
